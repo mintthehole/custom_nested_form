@@ -1,7 +1,7 @@
 ## Custom Nested Form
 ###### Extenstion of [Nested Form](https://github.com/ryanb/nested_form) 
 
-Ever Wondered how to make use of nested forms for [selectize.js](http://selectize.github.io/selectize.js/)
+Ever Wondered how to make use of nested forms for [Chosen](https://harvesthq.github.io/chosen/)
 
 Here is an example for multiple select and links as well.
 
